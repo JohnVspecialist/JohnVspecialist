@@ -15,4 +15,4 @@
 - ⚡ What is Logic?
 - ⚡ What is Epistemology?
 
--👀 Should we imbue machines with such things, what might be the outcome, what is the cost of creating such models, and is it worth it?
+Should we imbue machines with such things, what might be the outcome, what is the cost of creating such models, and is it worth it?
