@@ -5,6 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/john-v-promptengineer/
 - 😄 I'm here to serve
 - ⚡ What is intelligence?
+- ⚡ What is Consciousness?
 - ⚡ What is Conscientiousness?
 - ⚡ What is Truth?
 - ⚡ What is Knowledge?
