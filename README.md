@@ -16,6 +16,6 @@
 - 7.) What is Comprehension?
 - 8.) What is Mental abstraction?
 - 9.) What is Logic?
-- 10.) What are Ontology & Epistemology, and what’s the Difference Between Them?
+- 10.) What are Ontology & Epistemology, and what’s the difference between them?
 
 --Should we imbue machines with such things, what might be the outcome, what is the cost of creating such models, and is it worth it?
