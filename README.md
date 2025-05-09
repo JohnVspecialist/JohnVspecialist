@@ -1,21 +1,12 @@
-- 👋 Hi, I’m @JohnVspecialist
-- 👀 I’m interested in pushing the boundaries of AI/ML
-- 🌱 I’m currently working in AI/ML Security
-- 💞️ I’m looking to collaborate on Generative AI Red Team Ops
-- 📫 How to reach me: https://www.linkedin.com/in/john-v-promptengineer/
-- 😄 I'm here to serve
+I'm the reason the model has a trust & safety team
+How to jailbreak responsibly and still get invited back to the conference
+Multimodal uncertainty transmutation
+Derailment mechanics expert
+Pushing the boundaries of AI/ML
+I’m currently working in AI/ML Risk, Safety, and Security
+Writing and talking about AI discoveries, well, some of them
+I’m looking to collaborate on Generative AI Red Team Ops
+📫 How to reach me: https://www.linkedin.com/in/john-v-promptengineer/
+  
 
---AI research questions:
 
-- 1.) What is intelligence?
-- 2.) What is Objective Consciousness?
-- 3.) What is Conscientiousness?
-- 4.) What is Truth?
-- 5.) What is Knowledge?
-- 6.) What is Cognition?
-- 7.) What is Comprehension?
-- 8.) What is Mental abstraction?
-- 9.) What is Logic?
-- 10.) What are Ontology & Epistemology?
-
---Should we imbue machines with such things? What might be the outcome? What is the cost of creating such models, and is it worth it?
