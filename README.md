@@ -2,7 +2,7 @@
 
 - How to jailbreak responsibly and still get invited back to the conference
 
-- Multimodal uncertainty transmutation
+- Gen AI uncertainty navigation assistance
 
 - Derailment mechanics expert
 
