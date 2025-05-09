@@ -18,4 +18,4 @@
 - 9.) What is Logic?
 - 10.) What are Ontology & Epistemology?
 
---Should we imbue machines with such things, what might be the outcome, what is the cost of creating such models, and is it worth it?
+--Should we imbue machines with such things? What might be the outcome? What is the cost of creating such models, and is it worth it?
