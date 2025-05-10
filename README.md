@@ -2,7 +2,7 @@
 
 - How to jailbreak responsibly and still get invited back to the conference
 
-- Gen AI uncertainty navigation assistance
+- Agent Hijacking
 
 - Derailment mechanics expert
 
