@@ -1,10 +1,10 @@
-- The reason the model has a trust & safety team
-
-- How to jailbreak responsibly
-
 - Agent Hijacking
 
 - Derailment mechanics
+
+- How to jailbreak responsibly
+
+- The reason the model has a trust & safety team
 
 - Pushing the boundaries of AI/ML
 
