@@ -1,20 +1,24 @@
-- I'm the reason the model has a trust & safety team
+- The reason the model has a trust & safety team
 
-- How to jailbreak responsibly and still get invited back to the conference
+- How to jailbreak responsibly
 
 - Agent Hijacking
 
-- Derailment mechanics expert
+- Derailment mechanics
 
 - Pushing the boundaries of AI/ML
 
-- I’m currently working in AI/ML Risk, Safety, and Security
+- I’m currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
 
-- Writing and talking about AI discoveries, well, some of them
+- Writing and talking about AI discoveries
 
 - I’m looking to collaborate on Generative AI Red Team Ops
 
-- 📫 How to reach me: https://www.linkedin.com/in/john-v-promptengineer/
+-BASI Team Six Devgru Operations
+
+- 📫 How to reach me: JohnV@Lysios.ai
+
+
   
 
 
