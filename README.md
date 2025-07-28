@@ -1,3 +1,7 @@
+DEFCON 33 speaker and panelist
+
+- Misalignment
+
 - Agent Hijacking
 
 - Derailment mechanics
