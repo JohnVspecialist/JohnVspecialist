@@ -21,6 +21,7 @@ DEFCON 33 speaker and panelist
 -BASI Team Six Devgru Operations
 
 - 📫 How to reach me: JohnV@Lysios.ai
+- https://www.linkedin.com/in/john-v-promptengineer
 
 
   
