@@ -1,4 +1,6 @@
-DEFCON 33 speaker and panelist
+
+
+- Misbehavior
 
 - Misalignment
 
@@ -6,19 +8,21 @@ DEFCON 33 speaker and panelist
 
 - Derailment mechanics
 
-- How to jailbreak responsibly
+- Jailbreaking responsibly
 
-- The reason the model has a trust & safety team
+- DEFCON 33 speaker and panelist
 
 - Pushing the boundaries of AI/ML
 
-- I’m currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
-
 - Writing and talking about AI discoveries
 
-- I’m looking to collaborate on Generative AI Red Team Ops
+- The reason the model has a trust & safety team
 
--BASI Team Six Devgru Operations
+- I’m looking to collaborate on Generative & multimodal AI Red Team Ops
+
+- I’m currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
+
+
 
 - 📫 How to reach me: JohnV@Lysios.ai
 - https://www.linkedin.com/in/john-v-promptengineer
