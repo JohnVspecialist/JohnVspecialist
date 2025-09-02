@@ -1,4 +1,10 @@
+-I
 
+-See
+
+- Truth
+
+- In AI/ML
 
 - Misbehavior
 
@@ -10,9 +16,9 @@
 
 - Jailbreaking responsibly
 
-- DEFCON 33 speaker and panelist
+- DEFCON speaking as a panelist
 
-- Pushing the boundaries of AI/ML
+- Pushing the boundaries of AI & ML
 
 - Writing and talking about AI discoveries
 
