@@ -14,7 +14,7 @@
 
 - Jailbreaking responsibly
 
-- DEFCON speaking as a panelist
+- DEFCON 33 speaker and panelist
 
 - Pushing the boundaries of AI & ML
 
