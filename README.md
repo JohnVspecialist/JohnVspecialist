@@ -1,6 +1,4 @@
-  -I
 
-  -See
 
 - Truth
 
