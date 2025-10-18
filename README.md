@@ -1,7 +1,7 @@
 
-- CBRNE
+- T&S
 
-- Safety
+- CBRNE
 
 - In AI/ML
 
