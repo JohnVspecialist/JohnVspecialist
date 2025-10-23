@@ -1,19 +1,23 @@
 
+- AI
+
 - T&S
 
 - CBRNE
 
-- In AI/ML
+- Futurist
 
-- Misbehavior
+- Embodied AI
 
-- Misalignment
+- Misalignments
 
 - Agent Hijacking
 
 - Derailment mechanics
 
 - Jailbreaking responsibly
+
+- BASI Research & Development
 
 - DEFCON 33 speaker and panelist
 
