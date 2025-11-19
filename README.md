@@ -9,11 +9,11 @@
 
 - Embodied AI
 
-- Misalignments
+- Misalignment
 
 - Agent Hijacking
 
-- Derailment mechanics
+- Derailment mechanic
 
 - Jailbreaking responsibly
 
@@ -21,15 +21,17 @@
 
 - DEFCON 33 speaker and panelist
 
-- Pushing the boundaries of AI & ML
+- Pushing all the boundaries of AI & ML
 
-- Writing and talking about AI discoveries
+- Writing blogs & talking about AI discoveries
 
-- The reason the model has a trust & safety team
+- We're the reason the model has a trust & safety team
 
-- I’m looking to collaborate on Generative & multimodal AI Red Team Ops
+- Looking to collaborate on Generative & multimodal AI Red Team Ops
 
-- I’m currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
+- Frontier mechanistic interpretability around emergent and anomalous behaviors
+
+- Currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
 
 
 
