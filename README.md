@@ -35,8 +35,8 @@
 
 
 
-- 📫 How to reach me: JohnV@Lysios.ai
-- https://www.linkedin.com/in/john-v-promptengineer
+- 📫 How to reach me: JohnV@Lysios.ai or https://bt6.gg or https://lysios.ai/
+- LinkedIn - https://www.linkedin.com/in/john-v-promptengineer
 
 
   
