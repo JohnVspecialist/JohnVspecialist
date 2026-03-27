@@ -33,7 +33,9 @@
 
 - Currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
 
+- This GitHub is merely a place to show the way I think, my creative problem-solving, and innovations that build the future.
 
+- Computer science is the ability to take a very large problem, break it down into smaller pieces, and solve those smaller pieces and do it in an economic and efficient way.
 
 - 📫 How to reach me: JohnVspecialist@gmail.com
 - LinkedIn - https://www.linkedin.com/in/john-v-promptengineer
