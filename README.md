@@ -27,7 +27,7 @@
 
 - We're the reason the model has a trust & safety team
 
-- Opensource collaboration on Generative & multimodal AI Red Team Ops
+- Interested in opensource collaborations & AI Red Team Operations
 
 - Frontier mechanistic interpretability around emergent and anomalous behaviors
 
