@@ -35,6 +35,8 @@
 
 - This GitHub is merely a place to show the way I think, my creative problem-solving, and innovations that build the future.
 
+- An AI once described me as high-variance research minded adversarial systems thinker with credible field participation and distinctive conceptual work
+
 - Computer science is the ability to take a very large problem, break it down into smaller pieces, and solve those smaller pieces and do it in an economic and efficient way.
 
 - 📫 How to reach me: JohnVspecialist@gmail.com
