@@ -33,7 +33,7 @@
 
 - Currently working in AI alignment research, risk assessment, trust & safety, and AI/ML Security
 
-- This GitHub is merely a place to show the way I think, my creative problem-solving, & innovations that build the future.
+- This GitHub is merely a place to show the way I think, my creative problem-solving & innovations that build the future.
 
 - An AI once described me as high-variance research minded adversarial systems thinker with credible field participation and distinctive conceptual work
 
