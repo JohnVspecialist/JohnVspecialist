@@ -15,6 +15,8 @@
 
 - Derailment mechanic
 
+- AI red team specialist
+
 - Jailbreaking responsibly
 
 - BASI Research & Development
